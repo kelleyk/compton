@@ -1,0 +1,5 @@
+compton (0.1beta2-git5a00ada-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Kevin Kelley <kelleyk@rapt.home.kelleyk.net>  Wed, 15 Apr 2015 14:26:36 -0700
