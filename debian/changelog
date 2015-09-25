@@ -2,7 +2,7 @@ compton (0.1~beta3~2.gitd7f95b5-kk1) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @d7f95b56b176281bfb252c54defef48c9cd1f4e1 **
 
--- Kevin Kelley <kelleyk@rapt.home.kelleyk.net>  Fri, 17 Apr 2015 14:01:02 -0700
+ -- Kevin Kelley <kelleyk@rapt.home.kelleyk.net>  Fri, 17 Apr 2015 14:01:02 -0700
 
 compton (0.1~beta3~1.git0e0b35a-kk1) UNRELEASED; urgency=medium
 
