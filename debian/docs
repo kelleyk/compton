@@ -1,0 +1,5 @@
+README.md
+compton.sample.conf
+dbus-examples/cdbus-driver.sh
+compton-default-fshader-win.glsl
+compton-fake-transparency-fshader-win.glsl

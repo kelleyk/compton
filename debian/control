@@ -1,0 +1,25 @@
+Source: compton
+Section: x11
+Priority: optional
+Maintainer: Richard Grenville <pyxlcy@gmail.com>
+Build-Depends: debhelper (>= 8.0.0), libx11-dev (>= 6.8.2.dfsg.1-11), libxcomposite-dev (>= 6.8.2.dfsg.1-11), libxfixes-dev (>= 6.8.2.dfsg.1-11), libxdamage-dev (>= 6.8.2.dfsg.1-11), libxrender-dev (>= 1:0.9.0-2), libxext-dev, libxrandr-dev, libxinerama-dev, pkg-config, libpcre3-dev, libconfig-dev, libdrm-dev, libgl1-mesa-dev, asciidoc, libxml2-utils, xsltproc, xmlto, libdbus-1-dev
+Standards-Version: 3.9.5
+Homepage: https://github.com/chjj/compton
+Vcs-Git: git://github.com/chjj/compton.git
+Vcs-Browser: https://github.com/chjj/compton
+
+Package: compton
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: x11-utils
+Conflicts: compton-git
+Description: Lightweight X compositor
+ Compton is a lightweight compositor for X, a fork of xcompmgr-dana.
+
+Package: compton-dbg
+Architecture: any
+Section: debug
+Priority: extra
+Depends: ${shlibs:Depends}, ${misc:Depends}, compton (= ${binary:Version})
+Description: debugging symbols for compton
+ This package contains the debugging symbols for compton.
