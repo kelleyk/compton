@@ -1,8 +1,14 @@
+compton (0.1~beta3~3.gitb7f43ee-kk1) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @b7f43ee67a1d2d08239a2eb67b7f50fe51a592a8 **
+
+ -- Kevin Kelley <kelleyk@kelleyk.net>  Fri, 17 Apr 2015 14:01:02 -0700
+
 compton (0.1~beta3~2.gitd7f95b5-kk1) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @d7f95b56b176281bfb252c54defef48c9cd1f4e1 **
 
- -- Kevin Kelley <kelleyk@rapt.home.kelleyk.net>  Fri, 17 Apr 2015 14:01:02 -0700
+ -- Kevin Kelley <kelleyk@kelleyk.net>  Fri, 17 Apr 2015 14:01:02 -0700
 
 compton (0.1~beta3~1.git0e0b35a-kk1) UNRELEASED; urgency=medium
 
@@ -11,19 +17,19 @@ compton (0.1~beta3~1.git0e0b35a-kk1) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @0e0b35a361ef47d008dcb993bf6d8e10ca384bd1 **
 
- -- Kevin Kelley <kelleyk@rapt.home.kelleyk.net>  Fri, 17 Apr 2015 14:01:02 -0700
+ -- Kevin Kelley <kelleyk@kelleyk.net>  Fri, 17 Apr 2015 14:01:02 -0700
 
 compton (0.1~beta2~2.git0e0b35a-kk1) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @0e0b35a361ef47d008dcb993bf6d8e10ca384bd1 **
 
- -- Kevin Kelley <kelleyk@rapt.home.kelleyk.net>  Fri, 17 Apr 2015 14:01:02 -0700
+ -- Kevin Kelley <kelleyk@kelleyk.net>  Fri, 17 Apr 2015 14:01:02 -0700
 
 compton (0.1~beta2~1.git5a00ada-kk1) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @2b17ee232f2f4c74fd346964cf0fcc8244af7172 **
 
- -- Kevin Kelley <kelleyk@rapt.home.kelleyk.net>  Fri, 17 Apr 2015 14:01:02 -0700
+ -- Kevin Kelley <kelleyk@kelleyk.net>  Fri, 17 Apr 2015 14:01:02 -0700
 
 compton (0.1~beta2+1git20141130-0ppa1~14.10) utopic; urgency=low
 
